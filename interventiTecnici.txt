@@ -1,0 +1,9 @@
+Si vuole realizzare un'applicazione Java per gestire gli interventi sui dispositivi della scuola.
+Ogni intervento memorizza il device, ora e data della segnalazione di guasto, nome del tecnico incaricato, ora e data di ripristino.
+Deve essere possibile svolgere le seguenti operazioni:
+1. segnalare un malfunzionamento
+2. verificare lo svolgimento di un intervento
+3. segnalare l'avvenuto intervento
+4. calcolare il tempo medio di intervento
+5. produrre la lista degli interventi per tecnico
+
